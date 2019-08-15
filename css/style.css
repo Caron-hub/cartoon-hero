@@ -1,5 +1,9 @@
 .image-txt-container {
-    display:flex;
-    align-items:center;
+    display: flex;
+    align-items: center;
     flex-direction: row;
+}
+
+.indent {
+    padding-left: 1.2em
 }
